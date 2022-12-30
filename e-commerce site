@@ -1,0 +1,9 @@
+# Shopify
+This is a e-commerce site having the home,products,about,contact,contact.
+Every page is functional from the home page(index.html)
+login page is the account section(account.html)
+All the products avaliable in the website are displayed in the products section(products.html)
+There is a product detail page for the smartwatch which would appear by clicking on the smartwatch image on the home page(ProductDetails.html)
+There is a cart icon and by clicking it we would be redirected to the cart page(cart.html)
+There are filters and sorting option for the products
+There are ratings on products and reviews of people about the website.
